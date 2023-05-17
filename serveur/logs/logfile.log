@@ -1,0 +1,577 @@
+2022-12-17 16:10:07,345 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:11:04,147 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:11:24,001 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:13:22,984 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:14:01,211 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:14:30,712 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:14:49,754 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:15:38,347 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:15:57,821 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:16:19,324 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:16:36,667 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 16:16:46,855 [DEBUG] camera:: Starting thread
+2022-12-17 16:16:46,855 [DEBUG] camera:: Observation started
+2022-12-17 16:16:46,856 [INFO] camera:: Thread started
+2022-12-17 16:16:55,745 [DEBUG] __main__:: Starting stream
+2022-12-17 19:24:02,413 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 19:24:07,315 [DEBUG] camera:: Starting thread
+2022-12-17 19:24:07,315 [DEBUG] camera:: Observation started
+2022-12-17 19:24:07,315 [INFO] camera:: Thread started
+2022-12-17 19:24:16,918 [DEBUG] __main__:: Starting stream
+2022-12-17 20:07:16,318 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-17 20:07:21,764 [DEBUG] camera:: Starting thread
+2022-12-17 20:07:21,764 [DEBUG] camera:: Observation started
+2022-12-17 20:07:21,764 [INFO] camera:: Thread started
+2022-12-17 20:07:25,805 [DEBUG] __main__:: Starting stream
+2022-12-18 08:29:34,631 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 08:29:38,921 [DEBUG] camera:: Starting thread
+2022-12-18 08:29:38,921 [DEBUG] camera:: Observation started
+2022-12-18 08:29:38,921 [INFO] camera:: Thread started
+2022-12-18 08:31:49,327 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 08:31:53,601 [DEBUG] camera:: Starting thread
+2022-12-18 08:31:53,601 [DEBUG] camera:: Observation started
+2022-12-18 08:31:53,602 [INFO] camera:: Thread started
+2022-12-18 08:37:45,885 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 08:37:55,635 [DEBUG] camera:: Starting thread
+2022-12-18 08:37:55,635 [DEBUG] camera:: Observation started
+2022-12-18 08:37:55,635 [INFO] camera:: Thread started
+2022-12-18 08:38:01,929 [DEBUG] __main__:: Starting stream
+2022-12-18 09:11:36,399 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 09:11:41,038 [DEBUG] camera:: Starting thread
+2022-12-18 09:11:41,038 [DEBUG] camera:: Observation started
+2022-12-18 09:11:41,038 [INFO] camera:: Thread started
+2022-12-18 09:35:09,039 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 09:35:13,181 [DEBUG] camera:: Starting thread
+2022-12-18 09:35:13,181 [DEBUG] camera:: Observation started
+2022-12-18 09:35:13,181 [INFO] camera:: Thread started
+2022-12-18 09:37:59,395 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 09:38:05,498 [DEBUG] camera:: Starting thread
+2022-12-18 09:38:05,498 [DEBUG] camera:: Observation started
+2022-12-18 09:38:05,498 [INFO] camera:: Thread started
+2022-12-18 09:38:12,348 [DEBUG] __main__:: Starting stream
+2022-12-18 09:46:05,571 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 09:46:09,840 [DEBUG] camera:: Starting thread
+2022-12-18 09:46:09,840 [DEBUG] camera:: Observation started
+2022-12-18 09:46:09,840 [INFO] camera:: Thread started
+2022-12-18 09:55:26,687 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 09:55:32,839 [DEBUG] camera:: Starting thread
+2022-12-18 09:55:32,839 [DEBUG] camera:: Observation started
+2022-12-18 09:55:32,839 [INFO] camera:: Thread started
+2022-12-18 09:56:46,812 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 09:56:50,924 [DEBUG] camera:: Starting thread
+2022-12-18 09:56:50,924 [DEBUG] camera:: Observation started
+2022-12-18 09:56:50,924 [INFO] camera:: Thread started
+2022-12-18 11:00:44,297 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 11:00:50,296 [DEBUG] camera:: Starting thread
+2022-12-18 11:00:50,296 [DEBUG] camera:: Observation started
+2022-12-18 11:00:50,297 [INFO] camera:: Thread started
+2022-12-18 11:06:00,102 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 11:06:05,124 [DEBUG] camera:: Starting thread
+2022-12-18 11:06:05,124 [DEBUG] camera:: Observation started
+2022-12-18 11:06:05,124 [INFO] camera:: Thread started
+2022-12-18 11:06:30,432 [DEBUG] __main__:: Starting stream
+2022-12-18 11:13:22,459 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 11:13:28,368 [DEBUG] camera:: Starting thread
+2022-12-18 11:13:28,369 [DEBUG] camera:: Observation started
+2022-12-18 11:13:28,369 [INFO] camera:: Thread started
+2022-12-18 19:41:08,906 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 19:41:14,716 [DEBUG] camera:: Starting thread
+2022-12-18 19:41:14,717 [DEBUG] camera:: Observation started
+2022-12-18 19:41:14,717 [INFO] camera:: Thread started
+2022-12-18 19:41:21,796 [DEBUG] __main__:: Starting stream
+2022-12-18 19:42:38,284 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 19:42:42,470 [DEBUG] camera:: Starting thread
+2022-12-18 19:42:42,470 [DEBUG] camera:: Observation started
+2022-12-18 19:42:42,470 [INFO] camera:: Thread started
+2022-12-18 19:42:46,302 [DEBUG] __main__:: Starting stream
+2022-12-18 19:45:09,004 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 19:45:13,202 [DEBUG] camera:: Starting thread
+2022-12-18 19:45:13,202 [DEBUG] camera:: Observation started
+2022-12-18 19:45:13,202 [INFO] camera:: Thread started
+2022-12-18 19:45:59,908 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 19:46:04,379 [DEBUG] camera:: Starting thread
+2022-12-18 19:46:04,379 [DEBUG] camera:: Observation started
+2022-12-18 19:46:04,379 [INFO] camera:: Thread started
+2022-12-18 19:46:46,191 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 19:46:50,430 [DEBUG] camera:: Starting thread
+2022-12-18 19:46:50,430 [DEBUG] camera:: Observation started
+2022-12-18 19:46:50,431 [INFO] camera:: Thread started
+2022-12-18 19:49:00,517 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 19:49:04,728 [DEBUG] camera:: Starting thread
+2022-12-18 19:49:04,729 [DEBUG] camera:: Observation started
+2022-12-18 19:49:04,730 [INFO] camera:: Thread started
+2022-12-18 19:49:15,719 [DEBUG] __main__:: Starting stream
+2022-12-18 22:31:48,600 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:31:54,206 [DEBUG] camera:: Starting thread
+2022-12-18 22:31:54,206 [DEBUG] camera:: Observation started
+2022-12-18 22:31:54,207 [INFO] camera:: Thread started
+2022-12-18 22:31:57,407 [DEBUG] __main__:: Starting stream
+2022-12-18 22:32:04,322 [DEBUG] __main__:: Starting stream
+2022-12-18 22:33:35,728 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:33:39,942 [DEBUG] camera:: Starting thread
+2022-12-18 22:33:39,942 [DEBUG] camera:: Observation started
+2022-12-18 22:33:39,944 [INFO] camera:: Thread started
+2022-12-18 22:33:53,170 [DEBUG] __main__:: Starting stream
+2022-12-18 22:35:35,286 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:35:39,857 [DEBUG] camera:: Starting thread
+2022-12-18 22:35:39,858 [DEBUG] camera:: Observation started
+2022-12-18 22:35:39,860 [INFO] camera:: Thread started
+2022-12-18 22:36:04,655 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:36:08,753 [DEBUG] camera:: Starting thread
+2022-12-18 22:36:08,753 [DEBUG] camera:: Observation started
+2022-12-18 22:36:08,754 [INFO] camera:: Thread started
+2022-12-18 22:36:13,087 [DEBUG] __main__:: Starting stream
+2022-12-18 22:36:16,746 [DEBUG] __main__:: Starting stream
+2022-12-18 22:39:02,518 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:39:06,705 [DEBUG] camera:: Starting thread
+2022-12-18 22:39:06,706 [DEBUG] camera:: Observation started
+2022-12-18 22:39:06,706 [INFO] camera:: Thread started
+2022-12-18 22:39:15,002 [DEBUG] __main__:: Starting stream
+2022-12-18 22:39:17,884 [DEBUG] __main__:: Starting stream
+2022-12-18 22:48:35,493 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:48:39,862 [DEBUG] camera:: Starting thread
+2022-12-18 22:48:39,862 [DEBUG] camera:: Observation started
+2022-12-18 22:48:39,864 [INFO] camera:: Thread started
+2022-12-18 22:48:45,761 [DEBUG] __main__:: Starting stream
+2022-12-18 22:48:50,146 [DEBUG] __main__:: Starting stream
+2022-12-18 22:50:24,574 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:50:28,863 [DEBUG] camera:: Starting thread
+2022-12-18 22:50:28,863 [DEBUG] camera:: Observation started
+2022-12-18 22:50:28,864 [INFO] camera:: Thread started
+2022-12-18 22:50:35,479 [DEBUG] __main__:: Starting stream
+2022-12-18 22:50:38,434 [DEBUG] __main__:: Starting stream
+2022-12-18 22:55:39,093 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:55:43,742 [DEBUG] camera:: Starting thread
+2022-12-18 22:55:43,742 [DEBUG] camera:: Observation started
+2022-12-18 22:55:43,743 [INFO] camera:: Thread started
+2022-12-18 22:55:52,917 [DEBUG] __main__:: Starting stream
+2022-12-18 22:57:37,498 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 22:57:41,851 [DEBUG] camera:: Starting thread
+2022-12-18 22:57:41,851 [DEBUG] camera:: Observation started
+2022-12-18 22:57:41,852 [INFO] camera:: Thread started
+2022-12-18 22:57:50,860 [DEBUG] __main__:: Starting stream
+2022-12-18 22:57:51,892 [DEBUG] __main__:: Starting stream
+2022-12-18 22:58:37,501 [DEBUG] __main__:: Starting stream
+2022-12-18 22:58:38,880 [DEBUG] __main__:: Starting stream
+2022-12-18 22:58:39,179 [DEBUG] __main__:: Starting stream
+2022-12-18 22:58:54,800 [DEBUG] __main__:: Starting stream
+2022-12-18 22:59:23,932 [DEBUG] __main__:: Starting stream
+2022-12-18 22:59:25,721 [DEBUG] __main__:: Starting stream
+2022-12-18 22:59:30,426 [DEBUG] __main__:: Starting stream
+2022-12-18 23:00:49,690 [DEBUG] __main__:: Starting stream
+2022-12-18 23:00:51,155 [DEBUG] __main__:: Starting stream
+2022-12-18 23:01:05,213 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 23:01:10,424 [DEBUG] camera:: Starting thread
+2022-12-18 23:01:10,425 [DEBUG] camera:: Observation started
+2022-12-18 23:01:10,426 [INFO] camera:: Thread started
+2022-12-18 23:01:31,521 [DEBUG] __main__:: Starting stream
+2022-12-18 23:05:45,118 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 23:05:50,017 [DEBUG] camera:: Starting thread
+2022-12-18 23:05:50,018 [DEBUG] camera:: Observation started
+2022-12-18 23:05:50,019 [INFO] camera:: Thread started
+2022-12-18 23:07:52,710 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-18 23:07:57,196 [DEBUG] camera:: Starting thread
+2022-12-18 23:07:57,196 [DEBUG] camera:: Observation started
+2022-12-18 23:07:57,196 [INFO] camera:: Thread started
+2022-12-19 21:53:25,685 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 21:53:31,633 [DEBUG] camera:: Starting thread
+2022-12-19 21:53:31,633 [DEBUG] camera:: Observation started
+2022-12-19 21:53:31,634 [INFO] camera:: Thread started
+2022-12-19 21:55:51,717 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 21:55:55,900 [DEBUG] camera:: Starting thread
+2022-12-19 21:55:55,900 [DEBUG] camera:: Observation started
+2022-12-19 21:55:55,900 [INFO] camera:: Thread started
+2022-12-19 22:07:28,627 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:07:33,074 [DEBUG] camera:: Starting thread
+2022-12-19 22:07:33,074 [DEBUG] camera:: Observation started
+2022-12-19 22:07:33,076 [INFO] camera:: Thread started
+2022-12-19 22:08:02,778 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:08:06,981 [DEBUG] camera:: Starting thread
+2022-12-19 22:08:06,981 [DEBUG] camera:: Observation started
+2022-12-19 22:08:06,983 [INFO] camera:: Thread started
+2022-12-19 22:18:02,759 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:18:07,138 [DEBUG] camera:: Starting thread
+2022-12-19 22:18:07,139 [DEBUG] camera:: Observation started
+2022-12-19 22:18:07,139 [INFO] camera:: Thread started
+2022-12-19 22:18:36,960 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:18:41,616 [DEBUG] camera:: Starting thread
+2022-12-19 22:18:41,616 [DEBUG] camera:: Observation started
+2022-12-19 22:18:41,616 [INFO] camera:: Thread started
+2022-12-19 22:21:59,790 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:22:04,342 [DEBUG] camera:: Starting thread
+2022-12-19 22:22:04,342 [DEBUG] camera:: Observation started
+2022-12-19 22:22:04,342 [INFO] camera:: Thread started
+2022-12-19 22:22:48,591 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:22:52,735 [DEBUG] camera:: Starting thread
+2022-12-19 22:22:52,735 [DEBUG] camera:: Observation started
+2022-12-19 22:22:52,735 [INFO] camera:: Thread started
+2022-12-19 22:24:45,177 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:24:49,338 [DEBUG] camera:: Starting thread
+2022-12-19 22:24:49,338 [DEBUG] camera:: Observation started
+2022-12-19 22:24:49,338 [INFO] camera:: Thread started
+2022-12-19 22:27:06,011 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:27:10,190 [DEBUG] camera:: Starting thread
+2022-12-19 22:27:10,191 [DEBUG] camera:: Observation started
+2022-12-19 22:27:10,191 [INFO] camera:: Thread started
+2022-12-19 22:29:18,335 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:29:23,075 [DEBUG] camera:: Starting thread
+2022-12-19 22:29:23,075 [DEBUG] camera:: Observation started
+2022-12-19 22:29:23,075 [INFO] camera:: Thread started
+2022-12-19 22:33:10,028 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:33:14,426 [DEBUG] camera:: Starting thread
+2022-12-19 22:33:14,427 [DEBUG] camera:: Observation started
+2022-12-19 22:33:14,427 [INFO] camera:: Thread started
+2022-12-19 22:38:30,816 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:38:35,172 [DEBUG] camera:: Starting thread
+2022-12-19 22:38:35,173 [DEBUG] camera:: Observation started
+2022-12-19 22:38:35,174 [INFO] camera:: Thread started
+2022-12-19 22:42:27,567 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:42:31,705 [DEBUG] camera:: Starting thread
+2022-12-19 22:42:31,705 [DEBUG] camera:: Observation started
+2022-12-19 22:42:31,705 [INFO] camera:: Thread started
+2022-12-19 22:48:05,290 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:48:09,446 [DEBUG] camera:: Starting thread
+2022-12-19 22:48:09,446 [DEBUG] camera:: Observation started
+2022-12-19 22:48:09,447 [INFO] camera:: Thread started
+2022-12-19 22:50:22,363 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:50:26,359 [DEBUG] camera:: Starting thread
+2022-12-19 22:50:26,360 [DEBUG] camera:: Observation started
+2022-12-19 22:50:26,360 [INFO] camera:: Thread started
+2022-12-19 22:56:38,998 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 22:56:43,399 [DEBUG] camera:: Starting thread
+2022-12-19 22:56:43,399 [DEBUG] camera:: Observation started
+2022-12-19 22:56:43,399 [INFO] camera:: Thread started
+2022-12-19 23:01:06,460 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 23:01:10,784 [DEBUG] camera:: Starting thread
+2022-12-19 23:01:10,784 [DEBUG] camera:: Observation started
+2022-12-19 23:01:10,785 [INFO] camera:: Thread started
+2022-12-19 23:02:39,953 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 23:02:44,176 [DEBUG] camera:: Starting thread
+2022-12-19 23:02:44,176 [DEBUG] camera:: Observation started
+2022-12-19 23:02:44,177 [INFO] camera:: Thread started
+2022-12-19 23:11:30,240 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-19 23:11:39,320 [DEBUG] camera:: Starting thread
+2022-12-19 23:11:39,320 [DEBUG] camera:: Observation started
+2022-12-19 23:11:39,320 [INFO] camera:: Thread started
+2022-12-20 07:18:45,763 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 07:19:01,681 [DEBUG] camera:: Starting thread
+2022-12-20 07:19:01,681 [DEBUG] camera:: Observation started
+2022-12-20 07:19:01,682 [INFO] camera:: Thread started
+2022-12-20 07:22:43,359 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 07:23:02,030 [DEBUG] camera:: Starting thread
+2022-12-20 07:23:02,030 [DEBUG] camera:: Observation started
+2022-12-20 07:23:02,030 [INFO] camera:: Thread started
+2022-12-20 07:40:25,917 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 07:40:39,017 [DEBUG] camera:: Starting thread
+2022-12-20 07:40:39,018 [DEBUG] camera:: Observation started
+2022-12-20 07:40:39,018 [INFO] camera:: Thread started
+2022-12-20 07:50:23,645 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 07:50:37,181 [DEBUG] camera:: Starting thread
+2022-12-20 07:50:37,181 [DEBUG] camera:: Observation started
+2022-12-20 07:50:37,182 [INFO] camera:: Thread started
+2022-12-20 07:51:54,827 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 07:52:04,449 [DEBUG] camera:: Starting thread
+2022-12-20 07:52:04,449 [DEBUG] camera:: Observation started
+2022-12-20 07:52:04,449 [INFO] camera:: Thread started
+2022-12-20 08:09:54,547 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:10:16,802 [DEBUG] camera:: Starting thread
+2022-12-20 08:10:16,803 [DEBUG] camera:: Observation started
+2022-12-20 08:10:16,803 [INFO] camera:: Thread started
+2022-12-20 08:13:11,610 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:13:27,552 [DEBUG] camera:: Starting thread
+2022-12-20 08:13:27,553 [DEBUG] camera:: Observation started
+2022-12-20 08:13:27,554 [INFO] camera:: Thread started
+2022-12-20 08:15:02,193 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:15:16,556 [DEBUG] camera:: Starting thread
+2022-12-20 08:15:16,557 [DEBUG] camera:: Observation started
+2022-12-20 08:15:16,557 [INFO] camera:: Thread started
+2022-12-20 08:25:49,539 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:26:01,955 [DEBUG] camera:: Starting thread
+2022-12-20 08:26:01,956 [DEBUG] camera:: Observation started
+2022-12-20 08:26:01,956 [INFO] camera:: Thread started
+2022-12-20 08:29:15,907 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:29:29,371 [DEBUG] camera:: Starting thread
+2022-12-20 08:29:29,372 [DEBUG] camera:: Observation started
+2022-12-20 08:29:29,372 [INFO] camera:: Thread started
+2022-12-20 08:38:20,303 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:38:37,453 [DEBUG] camera:: Starting thread
+2022-12-20 08:38:37,453 [DEBUG] camera:: Observation started
+2022-12-20 08:38:37,454 [INFO] camera:: Thread started
+2022-12-20 08:42:30,203 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:42:46,498 [DEBUG] camera:: Starting thread
+2022-12-20 08:42:46,500 [DEBUG] camera:: Observation started
+2022-12-20 08:42:46,500 [INFO] camera:: Thread started
+2022-12-20 08:47:36,055 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:47:44,514 [DEBUG] camera:: Starting thread
+2022-12-20 08:47:44,514 [DEBUG] camera:: Observation started
+2022-12-20 08:47:44,514 [INFO] camera:: Thread started
+2022-12-20 08:52:23,706 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:52:31,048 [DEBUG] camera:: Starting thread
+2022-12-20 08:52:31,048 [DEBUG] camera:: Observation started
+2022-12-20 08:52:31,048 [INFO] camera:: Thread started
+2022-12-20 08:56:13,509 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 08:56:27,077 [DEBUG] camera:: Starting thread
+2022-12-20 08:56:27,078 [DEBUG] camera:: Observation started
+2022-12-20 08:56:27,078 [INFO] camera:: Thread started
+2022-12-20 09:02:12,899 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:02:22,671 [DEBUG] camera:: Starting thread
+2022-12-20 09:02:22,672 [DEBUG] camera:: Observation started
+2022-12-20 09:02:22,672 [INFO] camera:: Thread started
+2022-12-20 09:25:37,447 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:27:21,364 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:30:55,964 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:31:07,793 [DEBUG] camera:: Starting thread
+2022-12-20 09:31:07,794 [DEBUG] camera:: Observation started
+2022-12-20 09:31:07,794 [INFO] camera:: Thread started
+2022-12-20 09:34:20,917 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:34:27,579 [DEBUG] camera:: Starting thread
+2022-12-20 09:34:27,579 [DEBUG] camera:: Observation started
+2022-12-20 09:34:27,579 [INFO] camera:: Thread started
+2022-12-20 09:37:33,771 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:37:42,855 [DEBUG] camera:: Starting thread
+2022-12-20 09:37:42,855 [DEBUG] camera:: Observation started
+2022-12-20 09:37:42,856 [INFO] camera:: Thread started
+2022-12-20 09:39:00,514 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:39:15,831 [DEBUG] camera:: Starting thread
+2022-12-20 09:39:15,832 [DEBUG] camera:: Observation started
+2022-12-20 09:39:15,833 [INFO] camera:: Thread started
+2022-12-20 09:39:40,963 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:43:08,152 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:44:45,622 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:44:55,896 [DEBUG] camera:: Starting thread
+2022-12-20 09:44:55,897 [DEBUG] camera:: Observation started
+2022-12-20 09:44:55,897 [INFO] camera:: Thread started
+2022-12-20 09:45:56,580 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:46:52,901 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:47:01,428 [DEBUG] camera:: Starting thread
+2022-12-20 09:47:01,429 [DEBUG] camera:: Observation started
+2022-12-20 09:47:01,429 [INFO] camera:: Thread started
+2022-12-20 09:48:57,916 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:49:08,405 [DEBUG] camera:: Starting thread
+2022-12-20 09:49:08,406 [DEBUG] camera:: Observation started
+2022-12-20 09:49:08,407 [INFO] camera:: Thread started
+2022-12-20 09:56:27,631 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:59:07,152 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 09:59:19,458 [DEBUG] camera:: Starting thread
+2022-12-20 09:59:19,459 [DEBUG] camera:: Observation started
+2022-12-20 09:59:19,460 [INFO] camera:: Thread started
+2022-12-20 10:01:49,838 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:02:00,418 [DEBUG] camera:: Starting thread
+2022-12-20 10:02:00,419 [DEBUG] camera:: Observation started
+2022-12-20 10:02:00,419 [INFO] camera:: Thread started
+2022-12-20 10:04:10,727 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:04:20,921 [DEBUG] camera:: Starting thread
+2022-12-20 10:04:20,922 [DEBUG] camera:: Observation started
+2022-12-20 10:04:20,923 [INFO] camera:: Thread started
+2022-12-20 10:06:30,277 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:06:43,562 [DEBUG] camera:: Starting thread
+2022-12-20 10:06:43,563 [DEBUG] camera:: Observation started
+2022-12-20 10:06:43,563 [INFO] camera:: Thread started
+2022-12-20 10:09:46,541 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:10:06,005 [DEBUG] camera:: Starting thread
+2022-12-20 10:10:06,007 [DEBUG] camera:: Observation started
+2022-12-20 10:10:06,007 [INFO] camera:: Thread started
+2022-12-20 10:11:11,696 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:11:21,955 [DEBUG] camera:: Starting thread
+2022-12-20 10:11:21,956 [DEBUG] camera:: Observation started
+2022-12-20 10:11:21,956 [INFO] camera:: Thread started
+2022-12-20 10:12:16,140 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:12:22,912 [DEBUG] camera:: Starting thread
+2022-12-20 10:12:22,913 [DEBUG] camera:: Observation started
+2022-12-20 10:12:22,913 [INFO] camera:: Thread started
+2022-12-20 10:14:34,045 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:15:20,881 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:15:26,630 [DEBUG] camera:: Starting thread
+2022-12-20 10:15:26,631 [DEBUG] camera:: Observation started
+2022-12-20 10:15:26,631 [INFO] camera:: Thread started
+2022-12-20 10:17:36,713 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:17:46,388 [DEBUG] camera:: Starting thread
+2022-12-20 10:17:46,389 [DEBUG] camera:: Observation started
+2022-12-20 10:17:46,389 [INFO] camera:: Thread started
+2022-12-20 10:35:12,615 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:35:25,120 [DEBUG] camera:: Starting thread
+2022-12-20 10:35:25,121 [DEBUG] camera:: Observation started
+2022-12-20 10:35:25,121 [INFO] camera:: Thread started
+2022-12-20 10:39:54,403 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 10:40:00,900 [DEBUG] camera:: Starting thread
+2022-12-20 10:40:00,901 [DEBUG] camera:: Observation started
+2022-12-20 10:40:00,901 [INFO] camera:: Thread started
+2022-12-20 22:33:09,884 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 22:33:23,858 [DEBUG] camera:: Starting thread
+2022-12-20 22:33:23,859 [DEBUG] camera:: Observation started
+2022-12-20 22:33:23,859 [INFO] camera:: Thread started
+2022-12-20 22:37:25,350 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 22:37:43,290 [DEBUG] camera:: Starting thread
+2022-12-20 22:37:43,290 [DEBUG] camera:: Observation started
+2022-12-20 22:37:43,290 [INFO] camera:: Thread started
+2022-12-20 22:38:14,609 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 22:38:22,737 [DEBUG] camera:: Starting thread
+2022-12-20 22:38:22,738 [DEBUG] camera:: Observation started
+2022-12-20 22:38:22,739 [INFO] camera:: Thread started
+2022-12-20 22:40:04,282 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 22:40:37,580 [DEBUG] camera:: Starting thread
+2022-12-20 22:40:37,581 [DEBUG] camera:: Observation started
+2022-12-20 22:40:37,582 [INFO] camera:: Thread started
+2022-12-20 22:43:32,955 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 22:43:57,312 [DEBUG] camera:: Starting thread
+2022-12-20 22:43:57,313 [DEBUG] camera:: Observation started
+2022-12-20 22:43:57,314 [INFO] camera:: Thread started
+2022-12-20 22:45:39,207 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 22:45:49,826 [DEBUG] camera:: Starting thread
+2022-12-20 22:45:49,827 [DEBUG] camera:: Observation started
+2022-12-20 22:45:49,827 [INFO] camera:: Thread started
+2022-12-20 22:51:02,235 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-20 22:51:14,016 [DEBUG] camera:: Starting thread
+2022-12-20 22:51:14,017 [DEBUG] camera:: Observation started
+2022-12-20 22:51:14,018 [INFO] camera:: Thread started
+2022-12-21 13:11:59,273 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 13:12:10,999 [DEBUG] camera:: Starting thread
+2022-12-21 13:12:11,000 [DEBUG] camera:: Observation started
+2022-12-21 13:12:11,000 [INFO] camera:: Thread started
+2022-12-21 13:15:51,720 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 13:16:05,186 [DEBUG] camera:: Starting thread
+2022-12-21 13:16:05,187 [DEBUG] camera:: Observation started
+2022-12-21 13:16:05,188 [INFO] camera:: Thread started
+2022-12-21 13:19:16,999 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 13:19:26,623 [DEBUG] camera:: Starting thread
+2022-12-21 13:19:26,624 [DEBUG] camera:: Observation started
+2022-12-21 13:19:26,624 [INFO] camera:: Thread started
+2022-12-21 13:22:33,345 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 13:22:45,760 [DEBUG] camera:: Starting thread
+2022-12-21 13:22:45,761 [DEBUG] camera:: Observation started
+2022-12-21 13:22:45,761 [INFO] camera:: Thread started
+2022-12-21 13:24:58,103 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 13:25:10,147 [DEBUG] camera:: Starting thread
+2022-12-21 13:25:10,148 [DEBUG] camera:: Observation started
+2022-12-21 13:25:10,148 [INFO] camera:: Thread started
+2022-12-21 13:25:56,563 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 13:26:07,392 [DEBUG] camera:: Starting thread
+2022-12-21 13:26:07,393 [DEBUG] camera:: Observation started
+2022-12-21 13:26:07,393 [INFO] camera:: Thread started
+2022-12-21 13:26:40,146 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 13:27:02,073 [DEBUG] camera:: Starting thread
+2022-12-21 13:27:02,073 [DEBUG] camera:: Observation started
+2022-12-21 13:27:02,074 [INFO] camera:: Thread started
+2022-12-21 13:28:12,717 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 13:28:21,259 [DEBUG] camera:: Starting thread
+2022-12-21 13:28:21,260 [DEBUG] camera:: Observation started
+2022-12-21 13:28:21,260 [INFO] camera:: Thread started
+2022-12-21 20:09:56,958 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 20:10:18,614 [DEBUG] camera:: Starting thread
+2022-12-21 20:10:18,614 [DEBUG] camera:: Observation started
+2022-12-21 20:10:18,615 [INFO] camera:: Thread started
+2022-12-21 20:12:49,338 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 20:13:05,206 [DEBUG] camera:: Starting thread
+2022-12-21 20:13:05,207 [DEBUG] camera:: Observation started
+2022-12-21 20:13:05,208 [INFO] camera:: Thread started
+2022-12-21 20:14:03,509 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 20:14:11,300 [DEBUG] camera:: Starting thread
+2022-12-21 20:14:11,301 [DEBUG] camera:: Observation started
+2022-12-21 20:14:11,301 [INFO] camera:: Thread started
+2022-12-21 20:19:20,778 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 20:19:27,474 [DEBUG] camera:: Starting thread
+2022-12-21 20:19:27,475 [DEBUG] camera:: Observation started
+2022-12-21 20:19:27,475 [INFO] camera:: Thread started
+2022-12-21 20:20:35,574 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 20:20:41,801 [DEBUG] camera:: Starting thread
+2022-12-21 20:20:41,802 [DEBUG] camera:: Observation started
+2022-12-21 20:20:41,802 [INFO] camera:: Thread started
+2022-12-21 20:22:50,039 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 20:22:59,253 [DEBUG] camera:: Starting thread
+2022-12-21 20:22:59,254 [DEBUG] camera:: Observation started
+2022-12-21 20:22:59,254 [INFO] camera:: Thread started
+2022-12-21 20:25:39,085 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-21 20:25:46,546 [DEBUG] camera:: Starting thread
+2022-12-21 20:25:46,547 [DEBUG] camera:: Observation started
+2022-12-21 20:25:46,547 [INFO] camera:: Thread started
+2022-12-22 17:21:23,196 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-12-22 17:21:34,989 [DEBUG] camera:: Starting thread
+2022-12-22 17:21:34,990 [DEBUG] camera:: Observation started
+2022-12-22 17:21:34,990 [INFO] camera:: Thread started
+2023-05-17 12:51:33,061 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:14:32,454 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:17:30,342 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:21:04,219 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:41:53,118 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:42:07,382 [DEBUG] camera:: Starting thread
+2023-05-17 13:42:07,382 [DEBUG] camera:: Observation started
+2023-05-17 13:42:07,383 [INFO] camera:: Thread started
+2023-05-17 13:43:16,334 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:43:29,742 [DEBUG] camera:: Starting thread
+2023-05-17 13:43:29,742 [DEBUG] camera:: Observation started
+2023-05-17 13:43:29,743 [INFO] camera:: Thread started
+2023-05-17 13:45:00,457 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:45:17,284 [DEBUG] camera:: Starting thread
+2023-05-17 13:45:17,285 [DEBUG] camera:: Observation started
+2023-05-17 13:45:17,285 [INFO] camera:: Thread started
+2023-05-17 13:48:53,060 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:49:20,849 [DEBUG] camera:: Starting thread
+2023-05-17 13:49:20,850 [DEBUG] camera:: Observation started
+2023-05-17 13:49:20,851 [INFO] camera:: Thread started
+2023-05-17 13:57:22,550 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 13:57:41,827 [DEBUG] camera:: Starting thread
+2023-05-17 13:57:41,828 [DEBUG] camera:: Observation started
+2023-05-17 13:57:41,829 [INFO] camera:: Thread started
+2023-05-17 14:11:12,037 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 14:11:28,293 [DEBUG] camera:: Starting thread
+2023-05-17 14:11:28,294 [DEBUG] camera:: Observation started
+2023-05-17 14:11:28,295 [INFO] camera:: Thread started
+2023-05-17 14:16:08,784 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 14:16:25,453 [DEBUG] camera:: Starting thread
+2023-05-17 14:16:25,454 [DEBUG] camera:: Observation started
+2023-05-17 14:16:25,454 [INFO] camera:: Thread started
+2023-05-17 14:25:37,535 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 14:25:55,651 [DEBUG] camera:: Starting thread
+2023-05-17 14:25:55,652 [DEBUG] camera:: Observation started
+2023-05-17 14:25:55,652 [INFO] camera:: Thread started
+2023-05-17 14:37:19,395 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 14:37:58,258 [DEBUG] camera:: Starting thread
+2023-05-17 14:37:58,259 [DEBUG] camera:: Observation started
+2023-05-17 14:37:58,260 [INFO] camera:: Thread started
+2023-05-17 14:39:00,673 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 14:39:24,938 [DEBUG] camera:: Starting thread
+2023-05-17 14:39:24,939 [DEBUG] camera:: Observation started
+2023-05-17 14:39:24,940 [INFO] camera:: Thread started
+2023-05-17 15:06:20,924 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 15:07:12,078 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 15:08:09,087 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 15:12:31,650 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 15:12:49,152 [DEBUG] camera:: Starting thread
+2023-05-17 15:12:49,153 [DEBUG] camera:: Observation started
+2023-05-17 15:12:49,154 [INFO] camera:: Thread started
+2023-05-17 16:08:38,684 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 16:08:46,760 [DEBUG] camera:: Starting thread
+2023-05-17 16:08:46,761 [DEBUG] camera:: Observation started
+2023-05-17 16:08:46,761 [INFO] camera:: Thread started
+2023-05-17 16:13:54,825 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 16:14:10,001 [DEBUG] camera:: Starting thread
+2023-05-17 16:14:10,001 [DEBUG] camera:: Observation started
+2023-05-17 16:14:10,002 [INFO] camera:: Thread started
+2023-05-17 16:14:48,053 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 16:14:54,418 [DEBUG] camera:: Starting thread
+2023-05-17 16:14:54,419 [DEBUG] camera:: Observation started
+2023-05-17 16:14:54,419 [INFO] camera:: Thread started
+2023-05-17 16:17:07,640 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 16:17:20,212 [DEBUG] camera:: Starting thread
+2023-05-17 16:17:20,213 [DEBUG] camera:: Observation started
+2023-05-17 16:17:20,214 [INFO] camera:: Thread started
+2023-05-17 16:19:27,264 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 16:19:37,361 [DEBUG] camera:: Starting thread
+2023-05-17 16:19:37,362 [DEBUG] camera:: Observation started
+2023-05-17 16:19:37,362 [INFO] camera:: Thread started
+2023-05-17 16:27:38,502 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 16:27:48,353 [DEBUG] camera:: Starting thread
+2023-05-17 16:27:48,353 [DEBUG] camera:: Observation started
+2023-05-17 16:27:48,354 [INFO] camera:: Thread started
+2023-05-17 16:31:56,538 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 16:32:19,980 [DEBUG] camera:: Starting thread
+2023-05-17 16:32:19,981 [DEBUG] camera:: Observation started
+2023-05-17 16:32:19,981 [INFO] camera:: Thread started
+2023-05-17 16:34:20,173 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 16:34:32,492 [DEBUG] camera:: Starting thread
+2023-05-17 16:34:32,493 [DEBUG] camera:: Observation started
+2023-05-17 16:34:32,493 [INFO] camera:: Thread started
+2023-05-17 17:13:31,719 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2023-05-17 17:13:44,976 [DEBUG] camera:: Starting thread
+2023-05-17 17:13:44,977 [DEBUG] camera:: Observation started
+2023-05-17 17:13:44,977 [INFO] camera:: Thread started

@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Stream</title>
+    </head>
+    <body>
+        <center>
+            <h1>Video Stream</h1>
+
+            {% if stop_button == 1 %}
+                <img src="{{ url_for('video_feed') }}">
+                {% extends "send_to_init.html" %}
+            {% else %}
+                <form action="/run", method="post">
+                    <input type="hidden", name='stop', value="stop">
+                    <button id='submit'>Run</button>
+                </form>
+            {% endif %}
+  
+        </center>
+    </body>
+</html>
